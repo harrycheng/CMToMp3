@@ -13,6 +13,7 @@
  
  3. then you can get a file named filename.uc.mp3 
  
- 
+ # Thanks 
+     Thank 蜜汁蛋总 , 网易云音乐.uc格式的缓存文件转.mp3  (https://blog.csdn.net/yrwan95/article/details/82194473)
   
  
